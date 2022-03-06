@@ -1,0 +1,1 @@
+GFlags /p /enable MyBadProgram.exe /full /debug WinDbg.exe
